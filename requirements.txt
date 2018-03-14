@@ -1,0 +1,9 @@
+scikit-learn==0.19.1
+seaborn==0.7.1
+pandas==0.22.0
+numpy==1.13.3
+matplotlib==2.0.2
+geopy==1.11.0
+folium==0.5.0
+dill==0.2.7.1
+Geohash==1.0
